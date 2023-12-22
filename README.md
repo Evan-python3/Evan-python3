@@ -1,0 +1,4 @@
+- 👋 Slt, je suis @Evan-python3
+- 👀 j'aime beaucoup le python en prioritée avec pygame
+- 🌱 J'apperend seul
+- 💞️ J'aimerais parler de ce que je pourrais faire et recevoir des idees
